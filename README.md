@@ -12,7 +12,7 @@ For each button you can adjust the volume of the audio playback. The volume cann
 Log in ssh to the raspberry and install omxplayer with this command. Omxplayer is the music player that will play your sounds.
 
 ```code
-sudo apt-get install omxplayer
+sudo apt-get install mpg321
 ```
 
 ## Upload your sounds on Pi
